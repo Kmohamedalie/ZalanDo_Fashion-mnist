@@ -11,3 +11,11 @@ Links: <br/>
 
 The original [MNIST dataset](http://yann.lecun.com/exdb/mnist/) contains a lot of handwritten digits. Members of the AI/ML/Data Science community love this dataset and use it as a benchmark to validate their algorithms. In fact, MNIST is often the first dataset researchers try. *"If it doesn't work on MNIST, it **won't work** at all"*, they said. *"Well, if it does work on MNIST, it may still fail on others."* 
                                                                          - Zalando Research
+                                                                         
+## My Output:
+Data: Fashion Mnist
+Validation accurary: 90%
+Training time: 1min 27s
+Resources: Google Colab Standard GPU
+Model Architecture: 2Cov, 2MaxPool, Flatten, 2Dense, Final output
+![image](https://user-images.githubusercontent.com/63104472/233623513-2e147f6d-4b41-4c28-ac76-fe91fd61822a.png)
