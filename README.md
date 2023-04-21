@@ -19,5 +19,6 @@ Data: Fashion Mnist <br>
 Validation accurary: 90% <br>
 Training time: 1min 27s <br>
 Resources: Google Colab Standard GPU <br>
-Model Architecture: 2Cov, 2MaxPool, Flatten, 2Dense, Final output <br>
+Model Architecture: 2Cov, 2MaxPool, Flatten, 2Dense, Final output <br><br><br>
+######## Final prediction image:
 ![image](https://user-images.githubusercontent.com/63104472/233623513-2e147f6d-4b41-4c28-ac76-fe91fd61822a.png)
