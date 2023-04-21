@@ -5,7 +5,7 @@ Links: <br/>
 [Keras](https://keras.io/api/datasets/fashion_mnist/) 
 [Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 [TensorFlow](https://www.tensorflow.org/datasets/catalog/fashion_mnist)
-[Zalando Research](https://github.com/zalandoresearch/fashion-mnist)
+[ZalandoResearch](https://github.com/zalandoresearch/fashion-mnist)
 [Paperswithcode](https://paperswithcode.com/dataset/fashion-mnist)<br>
 ![image](https://user-images.githubusercontent.com/63104472/233624875-0fffb229-cd57-4205-a989-b66b5299a84d.png)
 
